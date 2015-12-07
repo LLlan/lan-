@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">lan一键分享</string>
+    <string name="hello_world">您好</string>
+    <string name="txt_share_show">点击一下按钮一键分享</string>
+    <string name="but_1">分享至新浪微博</string>
+
+</resources>
